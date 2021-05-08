@@ -1,0 +1,56 @@
+[
+  {
+    "id": 0,
+    "name": "Куртка кожаная",
+    "price": 6199,
+    "img": "https://a.lmcdn.ru/img600x866/R/T/RTLAAF632501_14020820_2_v1_2x.jpg"
+  },
+  {
+    "id": 1,
+    "name": "Рубашка",
+    "price": 4499,
+    "img": "https://a.lmcdn.ru/img600x866/R/T/RTLAAC120201_14073230_1_v1_2x.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Платье",
+    "price": 2599,
+    "img": "https://a.lmcdn.ru/img600x866/M/P/MP002XW06M2D_14018337_2_v1_2x.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Туника пляжная",
+    "price": 1999,
+    "img": "https://a.lmcdn.ru/img600x866/M/P/MP002XW0693D_13978779_1_v1_2x.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Платье",
+    "price": 1690,
+    "img": "https://a.lmcdn.ru/img600x866/M/P/MP002XW06FNB_13840631_1_v1.jpeg"
+  },
+  {
+    "id": 6,
+    "name": "Джинсы",
+    "price": 2199,
+    "img": "https://a.lmcdn.ru/img600x866/I/X/IX001XW00Y0V_13999075_1_v1.jpeg"
+  },
+  {
+    "id": 7,
+    "name": "Брюки",
+    "price": 2199,
+    "img": "https://a.lmcdn.ru/img600x866/I/X/IX001XW00XY1_13984309_2_v1.jpeg"
+  },
+  {
+    "id": 8,
+    "name": "Футболка",
+    "price": 1599,
+    "img": "https://a.lmcdn.ru/img600x866/U/N/UN012EWHXUU3_10387661_1_v1_2x.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Блуза",
+    "price": 1399,
+    "img": "https://a.lmcdn.ru/img600x866/M/P/MP002XW05KN6_14056773_1_v1_2x.jpg"
+  }
+]
