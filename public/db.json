@@ -3,54 +3,63 @@
     "id": 0,
     "name": "Куртка кожаная",
     "price": 6199,
-    "img": "https://a.lmcdn.ru/img600x866/R/T/RTLAAF632501_14020820_2_v1_2x.jpg"
+    "img": "https://a.lmcdn.ru/img600x866/R/T/RTLAAF632501_14020820_2_v1_2x.jpg",
+    "fullinfo": "https://www.lamoda.ru/p/rtlaaf632501/clothes-jacquelinedeyong-kurtka-kozhanaya/"
   },
   {
     "id": 1,
     "name": "Рубашка",
     "price": 4499,
-    "img": "https://a.lmcdn.ru/img600x866/R/T/RTLAAC120201_14073230_1_v1_2x.jpg"
+    "img": "https://a.lmcdn.ru/img600x866/R/T/RTLAAC120201_14073230_1_v1_2x.jpg",
+    "fullinfo": "https://www.lamoda.ru/p/rtlaac120201/clothes-gap-rubashka/"
   },
   {
     "id": 2,
     "name": "Платье",
     "price": 2599,
-    "img": "https://a.lmcdn.ru/img600x866/M/P/MP002XW06M2D_14018337_2_v1_2x.jpg"
+    "img": "https://a.lmcdn.ru/img600x866/M/P/MP002XW06M2D_14018337_2_v1_2x.jpg",
+    "fullinfo": "https://www.lamoda.ru/p/mp002xw06m2d/clothes-froggi-plate/"
   },
   {
     "id": 4,
     "name": "Туника пляжная",
     "price": 1999,
-    "img": "https://a.lmcdn.ru/img600x866/M/P/MP002XW0693D_13978779_1_v1_2x.jpg"
+    "img": "https://a.lmcdn.ru/img600x866/M/P/MP002XW0693D_13978779_1_v1_2x.jpg",
+    "fullinfo": "https://www.lamoda.ru/p/mp002xw0693d/clothes-joss-tunika-plyazhnaya/"
   },
   {
     "id": 5,
     "name": "Платье",
     "price": 1690,
-    "img": "https://a.lmcdn.ru/img600x866/M/P/MP002XW06FNB_13840631_1_v1.jpeg"
+    "img": "https://a.lmcdn.ru/img600x866/M/P/MP002XW06FNB_13840631_1_v1.jpeg",
+    "fullinfo": "https://www.lamoda.ru/p/mp002xw06fnb/clothes-april-plate/"
   },
   {
     "id": 6,
     "name": "Джинсы",
     "price": 2199,
-    "img": "https://a.lmcdn.ru/img600x866/I/X/IX001XW00Y0V_13999075_1_v1.jpeg"
+    "img": "https://a.lmcdn.ru/img600x866/I/X/IX001XW00Y0V_13999075_1_v1.jpeg",
+    "fullinfo": "https://www.lamoda.ru/p/ix001xw00y0v/clothes-stradivarius-dzhinsy/"
   },
   {
     "id": 7,
     "name": "Брюки",
     "price": 2199,
-    "img": "https://a.lmcdn.ru/img600x866/I/X/IX001XW00XY1_13984309_2_v1.jpeg"
+    "img": "https://a.lmcdn.ru/img600x866/I/X/IX001XW00XY1_13984309_2_v1.jpeg",
+    "fullinfo": "https://www.lamoda.ru/p/ix001xw00xy1/clothes-stradivarius-bryuki/"
   },
   {
     "id": 8,
     "name": "Футболка",
     "price": 1599,
-    "img": "https://a.lmcdn.ru/img600x866/U/N/UN012EWHXUU3_10387661_1_v1_2x.jpg"
+    "img": "https://a.lmcdn.ru/img600x866/U/N/UN012EWHXUU3_10387661_1_v1_2x.jpg",
+    "fullinfo": "https://www.lamoda.ru/p/un012ewhxuu3/clothes-unitedcolorsofbenetton-futbolka/"
   },
   {
     "id": 9,
     "name": "Блуза",
     "price": 1399,
-    "img": "https://a.lmcdn.ru/img600x866/M/P/MP002XW05KN6_14056773_1_v1_2x.jpg"
+    "img": "https://a.lmcdn.ru/img600x866/M/P/MP002XW05KN6_14056773_1_v1_2x.jpg",
+    "fullinfo": "https://www.lamoda.ru/p/mp002xw05kn6/clothes-zolla-bluza/"
   }
 ]

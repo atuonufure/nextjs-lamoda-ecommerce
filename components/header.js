@@ -2,7 +2,7 @@ import Link from "next/link";
 import { useSelector } from "react-redux";
 
 export default function Header() {
-  const count = useSelector((state) => state.cart.items);
+  const count = useSelector((state) => state.cart.items.length);
 
   return (
     <header className="h-16 flex flex-row justify-between w-9/12 content-center">
@@ -13,7 +13,7 @@ export default function Header() {
         <Link href="/cart">
           <a>
             Корзина <br />
-            <span>{count.length} items</span>
+            <span>{count} items</span>
           </a>
         </Link>
       </div>
