@@ -8,7 +8,7 @@ export default function Home({ data }) {
   const dispatch = useDispatch();
 
   return (
-    <div className="flex flex-wrap justify-center w-screen">
+    <div className="flex flex-col items-center justify-center w-screen">
       <Header />
       <main className="flex flex-row flex-wrap w-9/12">
         {data.map((el) => (

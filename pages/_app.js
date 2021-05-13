@@ -1,6 +1,6 @@
 import "../styles/index.css";
 import "tailwindcss/tailwind.css";
-import data from "../public/db.json";
+import data from "../data/db.json";
 
 import store from "../redux/store";
 import { Provider } from "react-redux";
