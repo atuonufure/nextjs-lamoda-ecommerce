@@ -44,10 +44,20 @@ export default function Cart() {
               </div>
               <div className="flex w-1/5 justify-center p-1">{item[0].name}</div>
               <div className="flex w-1/5 justify-center p-1">
-                <button>-</button> {item[1]} <button>+</button>
+                <button className="sm:px-4 px-1" onClick={() => console.log("- item")}>
+                  -
+                </button>
+                <div className="sm:px-4 px-1">{item[1]}</div>
+                <button className="sm:px-4 px-1" onClick={() => console.log("+ item")}>
+                  +
+                </button>
               </div>
               <div className="flex w-1/5 justify-center p-1">{item[0].price} ₽</div>
-              <div className="flex w-1/5 justify-center p-1">Удалить</div>
+              <div className="flex w-1/5 justify-center p-1">
+                <button className="sm:px-4 px-1" onClick={() => console.log("delete item")}>
+                  Удалить
+                </button>
+              </div>
             </div>
           ))}
         </div>
