@@ -30,11 +30,15 @@ export default function Cart() {
     });
   }
 
+  let itemsCount = 0;
+  filteredItems.forEach((item) => {
+    itemsCount += item[1] * item[0].price;
+  });
+
   return (
     <div className="flex flex-col items-center justify-center w-screen">
       <Header />
       <main className="flex flex-col justify-center w-full sm:w-9/12">
-        <div className="m-4">{goods.length} items</div>
         <div>
           {filteredItems.map((item) => (
             <div
@@ -65,6 +69,9 @@ export default function Cart() {
               </div>
             </div>
           ))}
+        </div>
+        <div className="m-4">
+          Итого: {goods.length} items, по стоимости {itemsCount} ₽
         </div>
       </main>
       <Footer />
