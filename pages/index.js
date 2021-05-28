@@ -1,8 +1,8 @@
-import Header from "../components/header";
-import Footer from "../components/footer";
-
 import { useDispatch } from "react-redux";
 import { addToCart } from "../redux/cartSlice";
+
+import Header from "../components/header";
+import Footer from "../components/footer";
 
 export default function Home({ data }) {
   const dispatch = useDispatch();

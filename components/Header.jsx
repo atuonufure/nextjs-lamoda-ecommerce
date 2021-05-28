@@ -1,6 +1,8 @@
 import Link from "next/link";
 import { useSelector } from "react-redux";
 
+import ItemsCountName from "./ItemsCountName";
+
 export default function Header() {
   const count = useSelector((state) => state.cart.items.length);
 
@@ -13,7 +15,9 @@ export default function Header() {
         <Link href="/cart">
           <a>
             Корзина <br />
-            <span>{count} items</span>
+            <span>
+              <ItemsCountName itemsCount={count} />
+            </span>
           </a>
         </Link>
       </div>
