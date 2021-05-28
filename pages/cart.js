@@ -2,7 +2,7 @@ import { useSelector } from "react-redux";
 
 import Header from "../components/Header";
 import Footer from "../components/Footer";
-import Item from "../components/Item";
+import Item from "../components/CartItem";
 import ItemsCountName from "../components/ItemsCountName";
 
 export default function Cart() {
