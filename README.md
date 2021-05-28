@@ -5,6 +5,7 @@ Try the application live [https://nextjs-lamoda-ecommerce.vercel.app/](https://n
 ## Tech 🛠
 
 - [ReactJS](https://reactjs.org/)
+- [Next.js](https://nextjs.org/)
 - [Redux](https://redux.js.org/)
 - [Redux Toolkit](https://redux-toolkit.js.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
