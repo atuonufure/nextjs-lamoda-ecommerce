@@ -14,7 +14,7 @@ export default function Header() {
       <div className="text-xl self-center m-4">
         <Link href="/cart">
           <a>
-            Корзина <br />
+            <span className="float-right">Корзина</span> <br />
             <span>
               <ItemsCountName itemsCount={count} />
             </span>

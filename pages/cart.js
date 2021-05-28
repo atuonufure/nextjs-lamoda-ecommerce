@@ -47,7 +47,7 @@ export default function Cart() {
           ))}
         </div>
         <div className="m-4 justify-center">
-          Итого: <ItemsCountName itemsCount={goods.length} />, общей стоимостью {totalPrice} ₽
+          Итого: <ItemsCountName itemsCount={goods.length} /> общей стоимостью {totalPrice} ₽
         </div>
       </main>
       <Footer />
